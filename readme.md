@@ -10,4 +10,4 @@ MIT License.
 
 `.benjistokman-emphasis`: creates an outline for the section.
 
-`.benjistokman-background-one`, `.benjistokman-background-two`, `.benjistokman-background-three`, `.benjistokman-background-four`: special repeating backgrounds. Uses an appropriate colored version based off the section coloring.
+`.benjistokman-background-one`, `.benjistokman-background-two`, `.benjistokman-background-three`, `.benjistokman-background-four`, `.benjistokman-background-five`: special repeating backgrounds. Uses an appropriate colored version based off the section coloring.
