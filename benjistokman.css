@@ -1,7 +1,7 @@
 /*
 Benjistokman Mable theme 
 Author: Ben Stokman <ben.stokman@protonmail.com>
-Version 1.1
+Version 1.2
 */
 
 @import url('benjistokman/crimson-pro.css');
@@ -17,7 +17,16 @@ Version 1.1
 	--reading-size: 24px;
 	--monospace-font: "Share Tech Mono", monospace;
 	
+	--match-with-light: var(--theme-color);
+	--match-with-dark: var(--theme-color);
+	--highlight-match-with-light: var(--theme-color);
+	--highlight-match-with-dark: var(--theme-color);
+	
 	--border-width-raw: 3px;
+}
+
+.grid.portfolio img {
+	border-radius: var(--border-width);
 }
 
 button, a.button, input[type=submit] {
