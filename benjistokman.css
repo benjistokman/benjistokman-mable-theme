@@ -54,10 +54,6 @@ header.sticky, header.fixed {
 	}
 }
 
-button, a.button, input[type=submit] {
-	padding-bottom: calc(var(--spacing-size) * 2/5);
-}
-
 .button rect {
 	fill: none;
 	stroke-width: 4;
